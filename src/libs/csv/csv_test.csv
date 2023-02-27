@@ -1,0 +1,14 @@
+codigo,nome,marca,preco,quantidade,validade,categoria,peso(kg),origem,descricao
+1,Arroz Integral,Tio João,10.99,500,2024-06-01,Alimentos,0.5,Brasil,Arroz integral de grão longo e selecionado
+2,Feijão Preto,Camil,7.49,1,2024-09-01,Alimentos,1,Brasil,Feijão preto de ótima qualidade e sabor
+3,Leite Integral,Parmalat,3.99,1L,2023-08-01,Laticínios,1,Brasil,Leite integral fresco e saudável
+4,Macarrão Espaguete,Barilla,4.99,500g,2024-05-01,Alimentos,0.5,Itália,Macarrão espaguete de qualidade superior
+5,Óleo de Soja,Cristal,5.49,900ml,2025-02-01,Alimentos,0.9,Brasil,Óleo de soja de primeira qualidade
+6,Sabão em Pó,Omo,14.99,2,2026-12-01,Limpeza,2,Brasil,Sabão em pó para lavagem de roupas
+7,Detergente Ypê,Ypê,2.99,500ml,2024-10-01,Limpeza,0.5,Brasil,Detergente líquido para lavagem de louças
+8,Shampoo Seda,Seda,7.99,350ml,2024-11-01,Higiene pessoal,0.35,Brasil,Shampoo para todos os tipos de cabelos
+9,Sabonete Nivea,Nivea,1.99,90g,2023-06-01,Higiene pessoal,0.09,Alemanha,Sabonete em barra com hidratante
+10,Desodorante Rexona,Rexona,8.99,150ml,2024-07-01,Higiene pessoal,0.15,Brasil,Desodorante antitranspirante para homens
+11,Creme Dental Colgate,Colgate,3.99,90g,2024-12-01,Higiene pessoal,0.09,Brasil,Creme dental com flúor e proteção anticáries
+12,Chocolate Nestlé,Nestlé,4.99,90g,2023-11-01,Doces e sobremesas,0.09,Brasil,Chocolate ao leite cremoso
+013,Refrigerante Coca-Cola,Coca-Cola,5.49,2L,2024-03-01,Bebidas,2,Brasil,Refrigerante de cola refrescante
