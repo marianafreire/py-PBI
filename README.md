@@ -70,7 +70,7 @@ If you're curious to see if the changing type method works, repeat the process a
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-As you can see, some numeric columns were indentified by Power BI as text columns. Therefore, the changing that was shown before worked.
+As you can see, some numeric columns were identified by Power BI as text columns. Therefore, the change that was shown before worked.
 
 ### Dashboard
 
