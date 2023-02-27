@@ -109,9 +109,10 @@ This will tell you if your test passes ou fails, as well as the coverage area.
 For this project, the actual coverage area is shown below.
 
 <img
-  src="images/coverage.jpg"
+  src="images/coverage.png"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
