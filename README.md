@@ -74,7 +74,7 @@ As you can see, some numeric columns were identified by Power BI as text columns
 
 ### Dashboard
 
-Now you can create a Power BI dashboard to explore and analise the data.
+Now, you can create a Power BI dashboard to explore and analyze the data.
 
 <img
   src="images/dashboard.png"
